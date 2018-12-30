@@ -23,4 +23,7 @@ a solid state normally-closed relay driven from the EXT_5V line.  The relay conn
 input.  That line will only be powered from the USB, so when it's plugged in it will drive the relay open, isolating the PICO-V4.
 The relay I'm using currently is the [Panasonic AQY412SX](https://www.digikey.com/products/en?keywords=255-6088-1-ND).
 
+## License
+
+This part may be freely used under the terms of the [Creative Commons License](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
