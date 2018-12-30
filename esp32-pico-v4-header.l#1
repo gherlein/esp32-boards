@@ -288,10 +288,7 @@
 &lt;p&gt;
 This low cost ESP32 board can mount on a socket making it an easy daughterboard solution.&lt;p&gt;
 &lt;a href="https://docs.espressif.com/projects/esp-idf/en/latest/get-started/get-started-pico-kit.html#header-j2"&gt;Pinout Reference&lt;/a&gt;&lt;p&gt;
-As of end of 2018 these are &lt;a href="https://www.digikey.com/product-detail/en/espressif-systems/ESP32-PICO-KIT/1904-1030-ND/9381703?utm_adgroup=RF%20&amp;%20RFID"&gt;$8 each from DigiKey&lt;/a&gt;
-&lt;p&gt;
-Actual sockets needed are 1x20 (x2) although the bottom three pins on each side are not brought off the board.  &lt;p&gt;
-As of the end of 2018 these headers are &lt;a href="https://www.peconnectors.com/female-headers-pcb-1x-row-.100/hws15775/"&gt;$0.68 each (x1) at Phoenix Enterprises.&lt;/a&gt;</description>
+As of end of 2018 these are &lt;a href="https://www.digikey.com/product-detail/en/espressif-systems/ESP32-PICO-KIT/1904-1030-ND/9381703?utm_adgroup=RF%20&amp;%20RFID"&gt;$8 each from DigiKey&lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="ESP32-PICO-V4-SOCKET" x="0" y="0"/>
 </gates>
