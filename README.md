@@ -21,7 +21,7 @@ Got the real boards back and the drill holes are too small for the part I chose 
 the part pins are too big for the drill holes.  I'll be fixing this part soon.  For my prototype boards I am going 
 to hand-cut single row female headers to fit.  My next run of boards I'll fix it correctly.
 
-** WARNING**
+**WARNING**
 
 ## Power Supply Considerations
 
