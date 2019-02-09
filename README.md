@@ -11,9 +11,17 @@ about [$8 at DigiKey](https://www.digikey.com/product-detail/en/espressif-system
 
 I have one of [these](https://www.sparkfun.com/products/13907) boards too, but they are $21 not $8.  Also, as a daughterboard you probably don't need the battery charging circuit, and they use a 26MHz main crystal frequency, not 40MHz like the PICO-V4.
 
-## Actual Physical Parts
+## Actual Physical Parts - WARNING
 
 The board mounts on a 2x20 header pair 0.7in apart.  The "bottom" 3 pins on each side are not populated (bottom is where the antenna is, top is where the USB Connection is).  I had a hard time finding 1x20 headers but finally found some from (Pheonix Enterprises)[https://www.peconnectors.com/female-headers-pcb-1x-row-.100/hws15775/] for $0.68 (x1).
+
+**WARNING** 
+
+Got the real boards back and the drill holes are too small for the part I chose - or the other way around, 
+the part pins are too big for the drill holes.  I'll be fixing this part soon.  For my prototype boards I am going 
+to hand-cut single row female headers to fit.  My next run of boards I'll fix it correctly.
+
+** WARNING**
 
 ## Power Supply Considerations
 
